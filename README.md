@@ -9,3 +9,6 @@ A step-by-step source-building guide of [Tapable](https://github.com/webpack/tap
 Plz read modules in order above cuz each module has been written based on its previous module.
 
 请按上述顺序阅读各模块，因为后面的模块是在前一个模块的基础上继续开发的。
+
+## 源码分析
+请查阅[我的掘金文献](https://juejin.cn/post/7071914394795868191)。
